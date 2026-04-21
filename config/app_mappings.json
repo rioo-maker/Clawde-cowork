@@ -1,0 +1,26 @@
+{
+  "discord": {
+    "command": "start discord",
+    "paths": [
+      "C:\\Users\\%USERNAME%\\AppData\\Local\\Discord\\app-*\\Discord.exe",
+      "C:\\Program Files\\Discord\\Discord.exe",
+      "C:\\Program Files (x86)\\Discord\\Discord.exe"
+    ]
+  },
+  "chrome": {
+    "command": "start chrome",
+    "paths": [
+      "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+    ]
+  },
+  "notepad": {
+    "command": "start notepad"
+  },
+  "calc": {
+    "command": "start calc"
+  },
+  "spotify": {
+    "command": "explorer shell:AppsFolder\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify"
+  }
+}
