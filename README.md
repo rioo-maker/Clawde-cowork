@@ -91,6 +91,12 @@ Then executes it.
 
 ---
 
+# ✨ Comparaison
+
+<img width="1402" height="1122" alt="sudovscowork" src="https://github.com/user-attachments/assets/a46c4cb1-761e-443a-8139-f46883100bb2" />
+
+---
+
 # 🛠 Installation
 
 ## 1 — Clone the repository
