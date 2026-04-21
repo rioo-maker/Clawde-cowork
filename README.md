@@ -15,6 +15,18 @@ The goal of Sudo Agent is to make **local AI computer control simple, modular, a
 
 ---
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=rioo-maker%2FClawde-cowork&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=rioo-maker/Clawde-cowork&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=rioo-maker/Clawde-cowork&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=rioo-maker/Clawde-cowork&type=date&legend=top-left" />
+ </picture>
+</a>
+
+---
+
 # 🚀 Overview
 
 Sudo Agent is a **CLI-based autonomous computer operator** designed to control a machine using AI reasoning.
