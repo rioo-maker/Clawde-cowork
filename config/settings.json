@@ -4,12 +4,12 @@
   "anthropic_model": "claude-sonnet-4-6",
   "ollama_url": "https://ollama.com",
   "ollama_model": "kimi-k2.5",
-  "ollama_api_key": "ead964a09c5f4c2a8829c3107383b13f.I4yS1DEL9DBzPkdBIhnmYbpB",
+  "ollama_api_key": "",
   "max_iterations": 100,
   "action_delay": 0.4,
-  "telegram_token": "\u00e0M\u00e0M\u00e0M\u00e0M\u00e0M\u00e0M\u00e0M\u00e0M\u00e0M\u00e0M\u00e08641645558:AAFve6cxHfCZhgP7NH5ctEq1kLFRHTzqwAA",
+  "telegram_token": "",
   "telegram_allowed_ids": [
-    7921072562
+    
   ],
   "autostart": false
 }
